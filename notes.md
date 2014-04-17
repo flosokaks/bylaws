@@ -10,6 +10,7 @@ Project
 * Resources
 * Funding
 * Context
+* Documentation
 
 ### Staff
 * People working on project
@@ -24,6 +25,7 @@ Project
 * Ownership
 * Cost
 * Transaction History
+* Resource Usage for Goals
 
 
 ##### Sponsors
@@ -39,20 +41,38 @@ Project
 * Consequences
 
 #### Goals
-* Results and Deliverables
-* Usage and Utility
+* Results
+* Deliverables
+* Usage of Project
+* Utility of project
 * Associated Values
 * Resources Needed to reach
 * Actions to reach goals
+* Needs
+* Critical Needs
+* Planning
+
 
 #### Context
 Context of project
+* Background
 * Location
 * Time
+* History
 * Related projects
 * Actions at a given time
 * Scope
 * Organisation Responsible
+
+#### Changes to code
+* Features
+* Bugs
+* Test Cases
+* Execution Path, critical path of code.
+* Use Cases
+* Adding of code
+* Discarding Code
+* Verbosity diagnositic code
 
 #### Location
 * Address
@@ -65,6 +85,7 @@ Context of project
 * County
 * State
 * Country
+
 
 Related Projects
 ================
@@ -103,7 +124,17 @@ Resources that we will produce and distribute
 * Facebook Groups
 * Social media posts
 * Tweets
-* G+ posts and groups 
+* G+ posts and groups
+* irc channel
+* QA sites
+* Reddit
+* Advertising on other sites
+* Conferences
+* Workshops
+* Online Meetings
+* Letters to Editor
+* Book
+* Word of Mouth
 
 ### Client
 * Javascript
