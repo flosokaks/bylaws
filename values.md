@@ -28,3 +28,6 @@ LOCAL: The focus of the groups efforts are local efforts to help local people
 INTEGRITY: FLOSOKAKS is an honest and truthful, vendor agnostic, global community. 
 
 friendly and encouraging environment.
+
+In carrying out the aforesaid objects the Company shall have regard to
+promoting the physical, mental and spiritual well being of the community.

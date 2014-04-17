@@ -150,3 +150,12 @@ Resources that we will produce and distribute
 * btsync
 * gnunet
 * ipv6
+
+### Finance
+
+* Apply for grants
+* Apply for sponsorship
+* Donations from members
+* Membership dues
+* Crowdsourcing
+
