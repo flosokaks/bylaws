@@ -243,14 +243,25 @@ approving the Board’s regular meeting schedule;
 
 ##### (iv)
 
-confirming
-Executive Director appointments to Standing Committees (as defined in Section
-4.1); (v) appointing Board Committees (as defined in Section 4.2); (vi) adding
-or removing any type of qualifying entity for purposes of determining applicant
-eligibility for membership in the Associate Member class; (vii) approving
-promotion plans of the Eclipse Management Organization (specified in Article
+confirming Executive Director appointments to Standing Committees (as defined in Section 4.1);
+
+##### (v)
+
+appointing Board Committees (as defined in Section 4.2);
+
+##### (vi)
+
+adding or removing any type of qualifying entity for purposes of determining applicant
+eligibility for membership in the Associate Member class;
+
+##### (vii)
+
+approving promotion plans of the Eclipse Management Organization (specified in Article
 VII) or any Membership At-Large committee (specified in Article VIII), ; and
-(viii) creating new Top Level Projects and Project Management Committees (as
+
+##### (viii)
+
+creating new Top Level Projects and Project Management Committees (as
 described in Section 7.1) that are consistent with the purposes of the Eclipse
 Foundation as set forth in Section 1.1.
 
@@ -300,7 +311,7 @@ with its terms;
 
 #### (vi) selecting and/or terminating the Executive Director
 
-####(vii) approving changes to the Eclipse Development Process
+#### (vii) approving changes to the Eclipse Development Process
 
 as described in Section 7.1;
 
