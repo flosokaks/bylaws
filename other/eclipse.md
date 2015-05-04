@@ -17,7 +17,7 @@ ecosystem of complementary products, capabilities, and services.  The Eclipse
 Foundation is formed exclusively as a non-profit trade association, as set out
 in section 501 (c) (6) of the Internal Revenue Code (the “Code”).
 
-## ARTICLE II OFFICES # Section 2.1 Principal Office
+## ARTICLE II OFFICES Section 2.1 Principal Office
 
 The principal office for the Eclipse Foundation shall be located in the state
 selected by the Board of Directors of the Eclipse Foundation (the “Board”). The
@@ -43,13 +43,14 @@ in Section 3.3 below with respect to Member representation on the Board, but
 shall in no event be less than one (1) director.
 
 
-### Section 3.3 Composition of Board of Directors.
+### Section 3.3 Composition of Board of Directors
 
 Members of the Board shall be appointed or elected, as applicable, in
-thefollowing manner:
+the following manner:
 
-#### (a) Strategic Developers Each Strategic Developer Member (as defined in
-Section 6.2(a) below) shall be entitled to appoint one (1) representative to
+#### (a) Strategic Developers Each Strategic Developer Member
+
+(as defined in Section 6.2(a) below) shall be entitled to appoint one (1) representative to
 the Board (a “Strategic Developer Director”), _provided, that,_ such
 representative must be an employee, officer, director, or consultant of the
 nominating Strategic Developer Member in order to be eligible to serve as a
@@ -77,9 +78,7 @@ Strategic Consumer Members in addition to any and all other requirements
 including, but not limited to, the voting requirements of Sections 3.9 and
 11.10, for amendment of these Bylaws set forth herein.
 
-*(c)
-
-## Add-In Provider Members.  # Add-In Provider Members
+#### (c) Add-In Provider Members
 
 (as defined in Section 6.2(c) below), as a class, shall be entitled to at least
 one (1) seat on the Board (and such representative or representatives shall
@@ -109,7 +108,7 @@ described in Article VII below) shall be responsible for establishing policies
 and procedures to implement the Single Transferable Vote process for the
 Eclipse Foundation.
 
-#### (d) Committer Members.
+#### (d) Committer Members
 
 Committer Members (as defined in Section 6.2(d) below), as a class, shall be
 entitled to at least one (1) seat on the Board (and such representative or
@@ -158,9 +157,9 @@ or elected, as applicable.  There shall be no prohibition on re-election or
 re-designation of any director following the completion of that director’s term
 of office.
 
-##### (a)
+##### (a) Strategic Developer; Consumer Directors.
 
-Strategic Developer; Consumer Directors.  Strategic Developer Directors and
+Strategic Developer Directors and
 Strategic Consumer Directors shall serve in such capacity until the earlier of
 their removal by their respective appointing Member organization or as
 otherwise provided for in these Bylaws.
@@ -226,9 +225,25 @@ which the Board has authority to take within the stated purpose of the Eclipse
 Foundation as set forth in Section 1.1, such actions must be approved by no
 less than a simple majority of those directors in Good Standing represented at
 a Board meeting at which a quorum is present.  Such actions requiring a simple
-majority vote include, but are not limited to, (i) approving a release roadmap
-for the Eclipse Platform; (ii) approving the Executive Director’s compensation
-package; (iii) approving the Board’s regular meeting schedule; (iv) confirming
+majority vote include, but are not limited to,
+
+##### (i)
+
+approving a release roadmap
+for the Eclipse Platform;
+
+##### (ii)
+
+approving the Executive Director’s compensation
+package;
+
+##### (iii)
+
+approving the Board’s regular meeting schedule;
+
+##### (iv)
+
+confirming
 Executive Director appointments to Standing Committees (as defined in Section
 4.1); (v) appointing Board Committees (as defined in Section 4.2); (vi) adding
 or removing any type of qualifying entity for purposes of determining applicant
@@ -239,12 +254,18 @@ VII) or any Membership At-Large committee (specified in Article VIII), ; and
 described in Section 7.1) that are consistent with the purposes of the Eclipse
 Foundation as set forth in Section 1.1.
 
-#### (b)
+#### (b) Unanimous Consent Required
 
-## Unanimous Consent Required
+For actions
 
-For actions (i) amending the terms of the Eclipse Public License (the “EPL”),
-and/or (ii) regarding the use of a contribution or distribution license other
+#### (i)
+
+amending the terms of the Eclipse Public License (the “EPL”),
+and/or
+
+#### (ii)
+
+regarding the use of a contribution or distribution license other
 than the EPL (subject to the exceptions set forth in the Eclipse Foundation
 Intellectual Property Policy (“IP Policy”) which cover contributions that may
 not be licensable under the terms of the EPL), any such actions must be
@@ -255,31 +276,36 @@ which a quorum is present.
 
 For actions,
 
-#### (i)
+#### (i) Name Change
 
 approving or changing the name of the Eclipse Foundation or the Eclipse
 Platform;
 
-#### (ii)
+#### (ii) Standards organization
 
 selecting standards organizations through which to standardize Eclipse APIs;
 
-#### (iii)
+#### (iii) amending the Membership Agreement
 
-amending the Membership Agreement;
+#### (iv)
 
-#### (iv) except for actions specified in Section 3.9(b) as they relate to
+except for actions specified in Section 3.9(b) as they relate to
 amending the Bylaws, amending these Bylaws or the Certificate of Incorporation
-of the Eclipse Foundation, (v) terminating a Member’s Agreement in accordance
+of the Eclipse Foundation,
+
+#### (v)
+
+terminating a Member’s Agreement in accordance
 with its terms;
 
 #### (vi) selecting and/or terminating the Executive Director
 
-####(vii)
+####(vii) approving changes to the Eclipse Development Process
 
+as described in Section 7.1;
 
-approving changes to the Eclipse Development Process as described in Section
-7.1; (viii) approving the appointment of a Project Management Committee lead
+#### (viii) approving the appointment of a Project Management Committee lead
+
 when, at the time of approval, the appointment of that lead would result in
 more than fifty percent (50%) of the Project Management Committee leads being
 employees, consultants, officers or directors of the same organization
@@ -308,9 +334,7 @@ approving changes to the IP Policy; such actions must be approved by no less
 than two-thirds (2/3) of the directors in Good Standing represented at a Board
 meeting at which a quorum is present
 
-###(d)
-
-## Action Without Meeting.
+###(d) Action Without Meeting.
 
 Any action required or permitted to be taken by the Board at a meeting may be
 taken without a meeting if all of the directors in Good Standing shall consent
@@ -350,8 +374,8 @@ a quorum.
 
 #### (b)
 
- A majority of the directors present; whether or not a quorum is present, may
- adjourn any meeting to another time and place.
+A majority of the directors present; whether or not a quorum is present, may
+adjourn any meeting to another time and place.
 
 ### Section 3.12 Voting; Electronic Voting.
 
@@ -423,14 +447,23 @@ the Executive Director. A resignation is effective upon the date provided for
 in the notice.  Once delivered, a notice of resignation is irrevocable unless
 permitted to be withdrawn by the Board prior to its effectiveness.
 
-####(b)
-
-## Removal for Cause
+####(b) Removal for Cause
 
 Any director may be removed “For Cause” at a meeting called for that purpose.
 For the purposes of this Section 3.15(b), “For Cause” shall mean when any
-director has been (i) declared of unsound mind by a final order of court, (ii)
-convicted of a felony, or (iii) found by the Board to have breached any duty
+director has been
+
+##### (i)
+
+declared of unsound mind by a final order of court,
+
+##### (ii)
+
+convicted of a felony, or
+
+#### (iii)
+
+found by the Board to have breached any duty
 arising under these Bylaws or the Certificate of Incorporation of the Eclipse
 Foundation.  Such director may only be removed “For Cause” after the
 affirmative vote of a majority of the directors in Good Standing (exclusive of
@@ -458,10 +491,22 @@ At-Large.
 
 ### Section 3.16 Vacancies
 
-A vacancy or vacancies shall be deemed to exist (i) in the case of the death or
-the resignation or removal of any director (ii) if the authorized number of
+A vacancy or vacancies shall be deemed to exist
+
+#### (i)
+
+in the case of the death or
+the resignation or removal of any director
+
+#### (ii)
+
+if the authorized number of
 directors is increased without election or appointment, as applicable, of the
-additional directors so provided for; or (iii) in the case of failure at any
+additional directors so provided for; or
+
+#### (iii)
+
+in the case of failure at any
 time to elect or appoint, as applicable, the full number of authorized
 directors.  Any vacancy of a Board seat appointed by a Strategic Developer
 Member or Strategic Consumer Member shall be filled within three (3) weeks of
@@ -473,7 +518,9 @@ such class until the next annual election as specified in Section 3.3(c) and
 or appoint, as applicable, a new director to such vacant Board seat prohibit
 the Board from meeting and conducting business.
 
-## ARTICLE IV COMMITTEES OF THE BOARD Section 4.1 Standing Committees
+## ARTICLE IV COMMITTEES OF THE BOARD
+
+### Section 4.1 Standing Committees
 
 The Board shall have three (3) standing committees (each, a “Standing
 Committee”). Each committee shall consist of two (2) or more directors
@@ -520,7 +567,7 @@ employees of the Eclipse Foundation.  The Executive Director may, from
 time-to-time, appoint additional directors to this committee as he or she deems
 necessary or appropriate, subject to Board confirmation as set forth above.
 
-## Section 4.2 Appointment of Committees
+### Section 4.2 Appointment of Committees
 
 The Board may appoint such committees as the Board from time-to-time deems
 necessary or appropriate to conduct the business and further the objectives of
@@ -571,9 +618,11 @@ Foundation, Bylaws or any resolution by the Board; or
 
 #### (e)
 
-perform Board actions specified in Section 3.9(b) or (c) herein. ## ARTICLE V
+perform Board actions specified in Section 3.9(b) or (c) herein.
 
-## OFFICERS Section 5.1 Initial Officers Board Empowerment
+## ARTICLE V OFFICERS
+
+## Section 5.1 Initial Officers Board Empowerment
 
 The officers of the Eclipse Foundation initially shall be an Executive Director
 and Secretary.  The Board shall have the power to create such other offices as
@@ -616,7 +665,6 @@ from time-to-time by the Board.
 
 ###(b) Secretary.
 
-
 The Secretary shall attend all meetings of the Board and all meetings of the
 Membership At-Large and record all the proceedings of the meetings of the Board
 and of the Membership At-Large in a book to be kept for that purpose and shall
@@ -632,9 +680,7 @@ when so affixed, it may be attested by his or her signature.  The Board may
 give general authority to any other officer to affix the seal of the Eclipse
 Foundation and to attest the affixing by his or her signature.
 
-#### (c)
-
-## Reports to Membership At-Large
+#### (c) Reports to Membership At-Large
 
 The Executive Director, with the Secretary’s assistance, shall be responsible
 for providing periodic written reports to the Membership At-Large with respect
@@ -642,9 +688,22 @@ to any and all material developments within the Eclipse Foundation (“Update
 Reports”).  In addition to any material development updates, the Executive
 Director shall issue general reports on the status of the Eclipse Foundation on
 a quarterly basis (“Quarterly Reports”).  Such Quarterly Reports shall include:
-(i) status reports on development projects, (ii) financial information reports,
-(iii) membership information reports; and (iv) any other material information
-with respect to the Eclipse Foundation.
+
+##### (i)
+
+status reports on development projects,
+
+#### (ii)
+
+financial information reports,
+
+#### (iii)
+
+membership information reports; and
+
+#### (iv)
+
+any other material information with respect to the Eclipse Foundation.
 
 ### Section 5.4 Standards of Conduct for Officers
 
@@ -663,34 +722,59 @@ faith if the officer has knowledge concerning the matter in question that makes
 reliance otherwise permitted in this Section 5.4 unwarranted. An officer is not
 liable to the Eclipse Foundation, any Member or any other person for any action
 taken or not taken as an officer, if the officer acted in compliance with this
-Section 5.4.  10 * * * ## ARTICLE VI ## MEMBERSHIP AT-LARGE ## Section 6.1 ##
-Classes of Membership
+Section 5.4.
 
-There shall be five (5) classes of membership in the Eclipse Foundation: (i)
-Strategic Developer Members; (ii) Strategic Consumer Members; (iii) Add-In
-Provider Members; (iv) Committer Members; and (v) Associate Members.  As used
-herein, the term “Member” shall be used to refer generically to a “Strategic
+## ARTICLE VI MEMBERSHIP AT-LARGE
+
+### Section 6.1 Classes of Membership
+
+There shall be five (5) classes of membership in the Eclipse Foundation:
+#### (i)Strategic Developer Members
+#### (ii) Strategic Consumer Members
+#### (iii) Add-In Provider Members
+#### (iv) Committer Members
+#### (v) Associate Members
+
+As used herein, the term “Member” shall be used to refer generically to a “Strategic
 Developer Member,” “Strategic Consumer Member,” “Add-In Provider Member,”
 “Committer Member” or an “Associate Member”.  All five classes of membership
 shall be collectively referred to as the “Membership At Large.”
 
 #### Section 6.2 Membership Qualifications
 
-In general, members are expected to adhere to the following criteria: (i)
+In general, members are expected to adhere to the following criteria:
+
+#### (i)
+
 express public support for the Eclipse Foundation and the Eclipse Platform;
-(ii) except for Associate Members and Committer Members, make available a
+
+#### (ii)
+
+except for Associate Members and Committer Members, make available a
 commercial Eclipse-based offering within twelve (12) months of joining the
 Eclipse Foundation or use the Eclipse Platform in the development of a
 commercial offering within twelve (12) months of joining the Eclipse
-Foundation; and (iii) sign the Eclipse Foundation Membership Agreement and
+Foundation; and
+
+#### (iii)
+
+sign the Eclipse Foundation Membership Agreement and
 abide by its terms.  Multiple “Affiliates” of an entity shall constitute one
 (1) member only, regardless of membership class.  For purposes of these Bylaws,
 “Affiliate” means any entity that is directly or indirectly controlled by,
 under common control with or that controls the subject party, and “control”
-means direct or indirect ownership of or the right to exercise (i) greater than
+means direct or indirect ownership of or the right to exercise
+
+##### (i)
+
+greater than
 fifty percent (50%) of the outstanding shares or securities entitled to vote
 for the election of directors or similar managing authority of the subject
-entity; or (ii) greater than fifty percent (50%) of the ownership interest
+entity; or
+
+##### (ii)
+
+greater than fifty percent (50%) of the ownership interest
 representing the right to make the decisions for the subject entity.  The
 following shall be the requirements for membership in each given membership
 class:
@@ -763,9 +847,7 @@ from time-to-time by the Board.
 ###(b) Payment
 
 Each Member will be responsible for payment of annual dues as set by the Board,
-if any.  The Secretary
-
-will send out invoices in compliance with reasonable invoicing requirements
+if any.  The Secretary will send out invoices in compliance with reasonable invoicing requirements
 (_e.g._, receipt of invoices at least forty-five (45) days prior to the due
 date).  The Secretary will promptly send out a written notice (“Dues Notice”)
 to any Member that has not paid its dues within ten (10) days after the date
@@ -1038,18 +1120,31 @@ for, any remaining net assets of the Eclipse Foundation shall be distributed by
 the Board to one or more organizations selected by the Board which will help to
 further the purposes of the Eclipse Foundation as set forth in Section 1.1.
 
-## ARTICLE VII
-## ECLIPSE MANAGEMENT ORGANIZATION
-## Section 7.1
-## Overall Responsibilities
+## ARTICLE VII ECLIPSE MANAGEMENT ORGANIZATION
+### Section 7.1 Overall Responsibilities
 
 The Executive Director shall be responsible for forming the Eclipse Management
 Organization (“EMO”). Under the direction of the Executive Director, the EMO
-responsibilities shall include: (i) organizing and selecting the chair of the
-Architecture Council as described in Section 7.2; (ii) organizing and selecting
-the chair of the Planning Council as described in Section 7.3; (iii) organizing
+responsibilities shall include:
+
+#### (i)
+
+organizing and selecting the chair of the
+Architecture Council as described in Section 7.2;
+
+#### (ii)
+
+organizing and selecting
+the chair of the Planning Council as described in Section 7.3
+
+#### (iii)
+
+organizing
 and selecting the chair of the Requirements Council as described in Section
-7.4; (iv) leading the Eclipse Platform development, including execution and
+7.4
+
+#### (iv)
+leading the Eclipse Platform development, including execution and
 maintenance of the then current Eclipse Development Process (as initially
 defined by the Eclipse Foundation operational policy and thereafter amended by
 the Board) for Top Level Projects, Projects and Subsystems (each as defined in
@@ -1062,13 +1157,32 @@ establishing working groups, resolving conflicts, interacting with standards
 organizations, ensuring the use of open source rules of engagement as defined
 in the project Charters (as defined in the then current Eclipse Development
 Process and the IP Policy), and providing development project infrastructure;
-(v) enforcing Eclipse Foundation policies and provisions as reflected in the
+
+
+#### (v)
+
+enforcing Eclipse Foundation policies and provisions as reflected in the
 Bylaws, Membership Agreement, IP Policy, and other policy documents approved in
-accordance with the Bylaws; (vi) interacting with the Membership At- Large by
+accordance with the Bylaws
+
+#### (vi)
+
+interacting with the Membership At- Large by
 providing Eclipse Platform plans and status updates, and by soliciting
-requirements and feedback; (vii) conducting Eclipse Platform marketing,
-including evangelism, promotion, public relations, and industry events; (viii)
-conducting academic and research community outreach; and (ix) assuring the
+requirements and feedback
+
+#### (vii)
+
+conducting Eclipse Platform marketing,
+including evangelism, promotion, public relations, and industry events;
+
+#### (viii)
+
+conducting academic and research community outreach; and
+
+#### (ix)
+
+assuring the
 availability of enablement services, including education and training programs.
 
 ### Section 7.2 Architecture  Council
@@ -1156,8 +1270,7 @@ Eclipse Foundation and shall have no power or authority over the operation of
 the Eclipse Foundation.  A member of the Advisory Board may be removed at any
 time by the affirmative vote of a majority of the Board with or without cause.
 
-## ARTICLE X
-## INDEMNIFICATION OF DIRECTORS, OFFICERS AND AGENTS
+## ARTICLE X INDEMNIFICATION OF DIRECTORS, OFFICERS AND AGENTS
 ## Section 10.1  Indemnification  of  Directors, Officers and Agents
 
 The Eclipse Foundation shall indemnify any person made or threatened to be made
@@ -1184,12 +1297,27 @@ acted, in good faith, for a purpose which he reasonably believed to be in the
 best interests of the Eclipse Foundation and, in criminal actions or
 proceedings, in addition, had no reasonable cause to believe that his conduct
 was unlawful.  Notwithstanding the above, the Eclipse Foundation shall only be
-subject to these indemnification provisions if: (i) the party seeking the
-indemnity provides notice of the claim promptly to the Eclipse Foundation; (ii)
+subject to these indemnification provisions if:
+
+#### (i)
+
+the party seeking the
+indemnity provides notice of the claim promptly to the Eclipse Foundation;
+
+#### (ii)
+
 the Eclipse Foundation is given sole control of the defense and settlement of
-the claim; (iii) the Eclipse Foundation receives from the party seeking the
+the claim;
+
+### (iii)
+
+the Eclipse Foundation receives from the party seeking the
 indemnity all available information, assistance and authority to defend such
-claim; and (iv) the party seeking the indemnity has not compromised or settled
+claim; and
+
+#### (iv)
+
+The party seeking the indemnity has not compromised or settled
 such proceeding without the Eclipse Foundation’s prior written
 consent. Expenses incurred by a person described in this section in defending a
 civil or criminal action or proceeding may be paid by the Eclipse Foundation in
@@ -1284,8 +1412,16 @@ incorporation.
 
 ### Section 11.10 Amendments
 
-These Bylaws may not be amended without (i) the consent of at least two-thirds
-(2/3) of the Membership At-Large in accordance with Section 6.5; and (ii) any
+These Bylaws may not be amended without
+
+#### (i)
+
+the consent of at least two-thirds
+(2/3) of the Membership At-Large in accordance with Section 6.5; and
+
+#### (ii)
+
+any
 other consent requirements expressly set forth herein with respect to such
 amendment’s proposed subject matter.  Additionally, to the extent a proposed
 amendment would alter a provision that would require the unanimous consent of
