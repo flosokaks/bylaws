@@ -379,9 +379,10 @@ non-natural means, such as zombification or vampirism. Fellows may exercise
 voting rights at any time, and if they vote, shall be counted for purposes of a
 quorum.
 
-### Section 4.10. Voting Rights for Fellows; Automatic Conversion.** Fellows
-have voting rights in the corporation. Fellows are always considered voting
-members as per section 4.2. Fellows are not subject to section 4.12. Any
+### Section 4.10. Voting Rights for Fellows; Automatic Conversion.
+
+Fellows have voting rights in the corporation. Fellows are always considered
+voting members as per section 4.2. Fellows are not subject to section 4.12. Any
 nominated member of the corporation as of the adoption of these Bylaws shall
 automatically become a Fellow without any further action on the part of such
 member or the corporation unless such member affirmatively declines such right
@@ -402,12 +403,14 @@ A voting member who does not cast a vote for four (4) votes within a single
 calendar year shall immediately have his or her voting rights revoked for the
 remainder of such year.
 
-### Section 4.13. Voluntary Conversion of Membership to Basic Status.** Members
-may convert their membership to Basic Member status at any time upon ten (10)
+### Section 4.13. Voluntary Conversion of Membership to Basic Status.
+
+Members may convert their membership to Basic Member status at any time upon ten (10)
 days written, signed notice delivered to an officer of the corporation.
 
-### Section 4.14. Involuntary Conversion of Membership to Basic Status.** The
-membership of a member shall automatically be converted to Basic Member status
+### Section 4.14. Involuntary Conversion of Membership to Basic Status.
+
+The membership of a member shall automatically be converted to Basic Member status
 upon the occurrence of any event causing such member to no longer qualify as a
 member of any membership class other than as a Basic Member.
 
@@ -635,12 +638,16 @@ offices of President and Secretary.
 
 The officers of the corporation shall have the following duties:
 
-*Chairperson of the Board.* The Chairperson of the Board, if one is elected,
+#### Chairperson of the Board.
+
+The Chairperson of the Board, if one is elected,
 shall preside at all meetings of the Board of Directors and members and shall
 have such other duties and authority as may be conferred by the Board of
 Directors.
 
-*Vice Chair.* The Vice Chair, if one is elected, shall, in the absence or
+#### Vice Chair.
+
+The Vice Chair, if one is elected, shall, in the absence or
 disability of the Chairperson of the Board, perform the duties and exercise the
 powers of the Chairperson of the Board. The Vice Chair shall also perform
 whatever duties and have whatever powers the Board of Directors may from time
@@ -648,13 +655,17 @@ to time assign him/her. If more than one Vice Chair is elected and the Chair is
 absent or becomes disabled, the Board of Directors shall choose one Vice Chair
 to perform the duties and exercise the powers of the Chair.
 
-*President.* The President shall be the chief representative of the corporation
+#### President.
+
+The President shall be the chief representative of the corporation
 and shall have such other duties and authority as may be conferred by the Board
 of Directors, subject to the direction of the Board of Directors. If a
 Chairperson of the Board is not elected, the President shall preside at all
 meetings of the Board of Directors and members.
 
-*Vice President.* The Vice President, if one is elected, shall, in the absence
+#### Vice President
+
+The Vice President, if one is elected, shall, in the absence
 or disability of the President, perform the duties and exercise the powers of
 the President. He or she also shall perform whatever duties and have whatever
 powers the Board of Directors may from time to time assign him or her. If more
@@ -664,7 +675,9 @@ President, perform the duties and exercise the powers of the President and each
 other Vice President shall only perform whatever duties and have whatever
 powers the Board of Directors may from time to time assign him or her.
 
-*Secretary and Assistant Secretary.* The Secretary shall keep accurate records
+#### Secretary and Assistant Secretary
+
+The Secretary shall keep accurate records
 of the acts and proceedings of all meetings of the members and directors. The
 Secretary shall give all notices required by law and by these Bylaws. In
 addition, the Secretary shall have general charge of the corporate books and
@@ -682,7 +695,9 @@ or her from time to time by the Chair, the President or the Board of Directors.
 The Assistant Secretary, if one is appointed, shall render assistance to the
 Secretary in all the responsibilities described above.
 
-*Treasurer and Assistant Treasurer.* The Treasurer shall have custody of all
+#### Treasurer and Assistant Treasurer
+
+The Treasurer shall have custody of all
 corporate funds and financial records, shall keep full and accurate accounts of
 receipts and disbursements and render accounts thereof at the annual meetings
 of members, and shall perform such other duties as may be prescribed by the
@@ -1055,8 +1070,4 @@ motion.
 - Amended by the PSF board on May 16th, 2014.
 - Approved by the PSF board on February 19th, 2014.
 
-## Previous Versions
-
-- [Version 1 of the PSF Bylaws](./version-1) is still available for historic
-    reasons. This was valid from 2001 until Feb 2014.
 
