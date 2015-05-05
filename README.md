@@ -5,16 +5,19 @@ The bylaws of flosokaks
 
 References
 ==========
+* Comparison of foundations  :
+  http://www.upfrontsystems.co.za/Members/jean/oss-foundations-compared
+  
 Some of the documents consulted while creating this document 
 
-* Memorandum and Articles of Association for Open Knowledge Foundation : https://docs.google.com/document/pub?id=1kQ4SZYFfquNDoNhHrXYB74YheUgYJMzXjMCE2ha28i8
-* Comparison of foundations  : http://www.upfrontsystems.co.za/Members/jean/oss-foundations-compared
-* Gnome Foundation : https://people.gnome.org/~tobiasmue/bylaws2012/bylaws.html
-* creativecommons : http://ibiblio.org/cccr/docs/bylaws.pdf
-* linuxfoundation : http://www.linuxfoundation.org/about/bylaws
+* [Memorandum and Articles of Association for Open Knowledge Foundation](other/openknowledge.md) : 
+* [Gnome Foundation](other/gnome.md)
+* [software in the public interest](other/spi.md)
+* [creativecommons](other/creativecommons.md)
+* [linuxfoundation](other/linuxfoundation.md)
 * mozilla : http://www.mozilla.org/en-US/legal/bylaws.html
-* osi : http://opensource.org/bylaws
-* owasp : https://www.owasp.org/index.php/OWASP_Foundation_ByLaws_Wiki_2011-JUN-23?action=raw
+* [osi](other/osi.md)
+* [owasp](other/owasp.md)
 * python foundation : https://www.python.org/psf/bylaws/
 * softwareconservancy : http://sfconservancy.org/docs/conservancy_by-laws.pdf
 * spi :http://www.spi-inc.org/corporate/by-laws/
