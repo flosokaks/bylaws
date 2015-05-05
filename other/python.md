@@ -4,17 +4,13 @@ Source: https://www.python.org/psf/bylaws/
 Bylaws of the Python Software Foundation, Version 2
 ===================================================
 
-ARTICLE I ---------
-
-### Business Offices
+## ARTICLE I Business Offices
 
 The corporation shall have such offices either within or outside the State of
 Delaware and within or outside the United States, as the Board of Directors may
 from time to time determine or as the business of the corporation may require.
 
-ARTICLE II ----------
-
-### Registered Offices and Registered Agents
+## ARTICLE II Registered Offices and Registered Agents
 
 ### Section 2.1. Delaware.
 
@@ -35,9 +31,7 @@ registered office in each such state and designate the registered agent for
 service of process at such address in the manner provided by the law of the
 state in which the corporation elects to be qualified.
 
-ARTICLE III -----------
-
-### Meetings of Members
+## ARTICLE III Meetings of Members
 
 ### Section 3.1. Place of Meetings.
 
@@ -240,9 +234,7 @@ Prompt notice of the taking of the corporate action without a meeting by less
 than unanimous written consent shall be given to those voting members who have
 not consented in writing.
 
-ARTICLE IV ----------
-
-### Members
+## ARTICLE IV Members
 
 ### Section 4.1. Member Classes.
 
@@ -443,9 +435,7 @@ then the Sponsor Member shall be returned a pro-rata portion of the yearly fee
 based on the date of termination and the time remaining in the year for which
 payment has already been made.
 
-ARTICLE V ---------
-
-### Directors
+## ARTICLE V Directors
 
 ### Section 5.1. Powers.
 
@@ -629,9 +619,7 @@ that person has a significant consulting relationship with an entity; or that
 person owns at least 1% of the equity or debt, or derivatives thereof, of an
 entity.
 
-ARTICLE VI ----------
-
-### Officers
+## ARTICLE VI Officers
 
 ### Section 6.1. Officers.
 
@@ -733,9 +721,7 @@ Directors fixing such compensation. The President shall have authority to fix
 the salaries, if any, of all employees of the corporation, other than officers
 elected or appointed by the Board of Directors.
 
-ARTICLE VII -----------
-
-### Working Groups
+## ARTICLE VII Working Groups
 
 ### Section 7.1. Creation
 
@@ -790,9 +776,7 @@ procedures which apply to them.
 The Board of Directors of the corporation may, by resolution, dissolve a
 Working Group at any time.
 
-ARTICLE VIII ------------
-
-### Books and Records
+## ARTICLE VIII Books and Records
 
 ### Section 8.1. Required Books and Records
 
@@ -818,9 +802,7 @@ business, for any proper purpose as determined under the General Corporation
 Law of the State of Delaware, the corporation's membership records and its
 other books and records and to make copies or extracts therefrom.
 
-ARTICLE IX ----------
-
-### Nonprofit Status
+## ARTICLE IX Nonprofit Status
 
 The corporation is organized and shall be operated as a not-for-profit
 membership corporation organized under Delaware law. If the Board of Directors
@@ -833,17 +815,13 @@ invalidate its status as an organization exempt from federal taxation under
 Section 501(a) of the IRC as an organization described in Section 501(c) of the
 IRC or incur excise taxes under Section 4958 or Chapter 42 of the IRC.
 
-ARTICLE X ---------
-
-### Corporate Seal
+## ARTICLE X Corporate Seal
 
 The Board of Directors shall provide a corporate seal which shall have the name
 of the corporation inscribed thereon, and may be a facsimile, engraved,
 printed, or an impression seal.
 
-ARTICLE XI ----------
-
-### Amendment
+## ARTICLE XI Amendment
 
 Members may form Working Groups to consider changes to these Bylaws, and may
 propose such changes to the Board of Directors. However, these Bylaws may be
@@ -856,18 +834,14 @@ corporation of such alteration, amendment or repeal at least fifteen (15) days
 prior to the effective date of such alteration, amendment or repeal, which
 notice may be by electronic means.
 
-ARTICLE XII -----------
-
-### Limits on Liability of Directors
+## ARTICLE XII Limits on Liability of Directors
 
 To the fullest extent permitted by the General Corporation Law of the State of
 Delaware, as the same exists or may hereafter be amended, a director of the
 corporation shall not be personally liable to the corporation or its members
 for monetary damages for breach of fiduciary duty as a director.
 
-ARTICLE XIII ------------
-
-### Indemnification of Officers and Directors
+## ARTICLE XIII Indemnification of Officers and Directors
 
 ### Section 13.1. Right to Indemnification.
 
@@ -991,9 +965,7 @@ ratified, continue as to a person who has ceased to be a director, officer or
 member and shall inure to the benefit of the heirs, executors and
 administrators of such person.
 
-ARTICLE XIV -----------
-
-### General Provisions
+## ARTICLE XIV General Provisions
 
 ### Section 14.1. Checks.
 
@@ -1026,8 +998,7 @@ to enter into any contract or execute and deliver any instrument on behalf of
 the corporation, and such authority may be general or confined to specific
 instances.
 
-### Section 14.6. Counterpart Execution: Facsimile Execution and Electronic
-Signatures.
+### Section 14.6. Counterpart Execution: Facsimile Execution and Electronic Signatures.
 
 Any document requiring the signature of the directors and/or members may be
 executed in any number of counterparts with the same effect as if all of the
@@ -1079,12 +1050,12 @@ fix typographical, grammatical, or spelling mistakes may be made at the
 direction of any member of the Board of Directors without the need for a formal
 motion.
 
-History -------
+## History
 
 - Amended by the PSF board on May 16th, 2014.
 - Approved by the PSF board on February 19th, 2014.
 
-Previous Versions -----------------
+## Previous Versions
 
 - [Version 1 of the PSF Bylaws](./version-1) is still available for historic
     reasons. This was valid from 2001 until Feb 2014.
