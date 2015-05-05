@@ -10,20 +10,20 @@ References
   
 Some of the documents consulted while creating this document 
 
-* [Memorandum and Articles of Association for Open Knowledge Foundation](other/openknowledge.md) : 
+* [Open Knowledge Foundation](other/openknowledge.md)
 * [Gnome Foundation](other/gnome.md)
 * [software in the public interest](other/spi.md)
 * [creativecommons](other/creativecommons.md)
 * [linuxfoundation](other/linuxfoundation.md)
-* mozilla : http://www.mozilla.org/en-US/legal/bylaws.html
+* [mozilla](other/mozilla.md)
 * [osi](other/osi.md)
 * [owasp](other/owasp.md)
-* python foundation : https://www.python.org/psf/bylaws/
-* softwareconservancy : http://sfconservancy.org/docs/conservancy_by-laws.pdf
-* spi :http://www.spi-inc.org/corporate/by-laws/
-* wikimedia :http://wikimediafoundation.org/wiki/Bylaws
-* Apache : https://www.apache.org/foundation/bylaws.html
-* Eclipse : http://www.eclipse.org/org/documents/Eclipse%20BYLAWS%202011_08_15%20Final.pdf
+* [python foundation](other/python.md)
+* [softwareconservancy](other/softwareconservancy.md)
+* [wikimedia](other/wikimedia.md)
+* [Apache](other/apache.md)
+* [Eclipse](other/eclipse.md)
+
 * https://github.com/DavisMakerspace/doc-articles
 * https://github.com/DavisMakerspace/doc-bylaws
 * https://github.com/PsiUpsilonEI/Bylaws
