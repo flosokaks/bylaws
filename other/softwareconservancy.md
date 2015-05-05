@@ -152,7 +152,7 @@ it, except as otherwise provided by law.
 
 # ARTICLE IV - OFFICERS
 
-## 1.0FFICERS, ELECTION, TERM.
+## 1.OFFICERS, ELECTION, TERM.
 
 Unless otherwise provided for in the Certificate of Incorporation, the Board
 may elect or appoint a President, one or more Vice-Presidents, a Secretary and
