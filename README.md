@@ -7,8 +7,12 @@ References
 ==========
 * Comparison of foundations  :
   http://www.upfrontsystems.co.za/Members/jean/oss-foundations-compared
-  
-Some of the documents consulted while creating this document 
+* How to write bylaws : http://ctb.ku.edu/en/table-of-contents/structure/organizational-structure/write-bylaws/main
+
+Sources
+=======
+
+Some of the documents consulted while creating this document
 
 * [Open Knowledge Foundation](other/openknowledge.md)
 * [Gnome Foundation](other/gnome.md)
@@ -24,10 +28,12 @@ Some of the documents consulted while creating this document
 * [Apache](other/apache.md)
 * [Eclipse](other/eclipse.md)
 
+* BitCoin Foundation Legal https://github.com/pmlaw/The-Bitcoin-Foundation-Legal-Repo/tree/master/Bylaws
+
 * https://github.com/DavisMakerspace/doc-articles
 * https://github.com/DavisMakerspace/doc-bylaws
 * https://github.com/PsiUpsilonEI/Bylaws
-* https://github.com/STWing/Bylaws
+* Bylaws of the Science and Technology Wing https://github.com/STWing/Bylaws
 * https://github.com/acm-sfsu/bylaws
 * https://github.com/akakie/fcband
 * https://github.com/akakie/shoals
@@ -41,3 +47,8 @@ Some of the documents consulted while creating this document
 * https://github.com/xsf/site-archived
 * https://github.com/wjrohret/Ames_Makerpsace_501c3
 * Brazen Dropouts Racing Club https://github.com/brazendropouts/member-documents
+* BYLAWS OF BRAZOS VALLEY MAKERSPACE https://github.com/bvmake/bylaws/blob/c992eb6fc86ff9150143e477fe89201495058a70/README.md
+* Factom Foundation https://github.com/FactomFoundation/ByLaws
+* The Bylaws of Hacklab Toronto Club Inc. https://github.com/hacklabto/hacklab-bylaws
+* Burn Blue Bylaws http://www.burnblue.org/bylaws
+* Open Bioinformatics Foundation https://github.com/OBF/obf-docs
